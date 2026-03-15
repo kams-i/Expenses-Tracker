@@ -1,4 +1,5 @@
 Expense Tracker
+
 A streamlined, modern web application designed to help users monitor their spending and manage their finances with ease. This project focuses on a clean user experience and real-time data visualization.
 
 🚀 Features
