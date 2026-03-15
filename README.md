@@ -1,3 +1,24 @@
+Expense Tracker
+A streamlined, modern web application designed to help users monitor their spending and manage their finances with ease. This project focuses on a clean user experience and real-time data visualization.
+
+🚀 Features
+Dashboard Overview: Get a quick snapshot of your total balance, income, and expenses.
+
+Transaction History: Add, edit, or delete transactions with categorized labels.
+
+Responsive Design: Fully optimized for both desktop and mobile viewing.
+
+Interactive UI: Fast, reactive components for seamless data entry.
+
+🛠️ Tech Stack
+Framework: Next.js
+
+Styling: Tailwind CSS
+
+State Management: React Hooks (useState, useEffect)
+
+Deployment: Vercel 
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
